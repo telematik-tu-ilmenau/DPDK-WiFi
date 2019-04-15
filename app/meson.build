@@ -30,3 +30,5 @@
 #   OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 # subdir('test-pmd')
+
+subdir('test-ath10k')
